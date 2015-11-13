@@ -9,6 +9,7 @@ This package depends on:
 
 1. An update-to-date version of g++ that supports C++0x 
 2. Boost library >= 1.46
+3. [Indri][Indri]
 3. [cpp-netlib][cpp-netlib] 0.11.2
 
 To install this package to your home directory, do:
