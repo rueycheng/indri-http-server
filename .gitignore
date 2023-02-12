@@ -2,27 +2,27 @@
 *.slo
 *.lo
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
-
-# Fortran module files
-*.mod
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Autotool
+.deps/
+Makefile
+autom4te.cache/
+config.h
+config.log
+config.status
+stamp-h1
+
+*.log
+*.trs
+
+# Others
+.*.swp
